@@ -1,3 +1,33 @@
+# claimed
+
+Reusable components and examples for AI, machine learning, ETL, and data science, based on the CLAIMED/Elyra component-library documentation retained below. This repository also contains notebooks, pipeline examples, and learning exercises.
+
+## Repository guide
+
+| Path | Contents |
+| --- | --- |
+| `component-library/` | Reusable pipeline components |
+| `notebooks/` | Notebook examples |
+| `tools/` | Supporting tools |
+| `coursera_*/`, `edx_tf/` | Learning material and exercises |
+| `*.pipeline` | Pipeline definitions |
+| `CONTRIBUTING.md` | Contribution guidance |
+| `LICENSE` | Apache License 2.0 terms |
+
+## Getting started
+
+```bash
+git clone https://github.com/abhinavsscbs/claimed.git
+cd claimed
+```
+
+Open the notebook or component relevant to your task in Jupyter. Inspect its dependency-installation cells and input/environment-variable requirements before execution. There is no single application entry point for this collection; each example has its own prerequisites.
+
+## Original component-library documentation
+
+
+---
+
 <!--
 {% comment %}
 Copyright 2018-2021 Elyra Authors
